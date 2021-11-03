@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# A Voice Powered Expense Budget Tracker App using react
+
+## Speechly [API](https://api.speechly.com/dashboard/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
