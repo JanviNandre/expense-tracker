@@ -21,7 +21,7 @@ export const Provider = ({ children }) => {
         return (currVal.type === 'Expense' ? acc - currVal.amount : acc + currVal.amount)
     }, 0)
 
-    console.log(transactions);
+    // console.log(transactions);
     return (
         <ExpenseTrackerContext.Provider value={{ deleteTransaction, addTransaction, transactions, balance }}>
             {children}
