@@ -1,6 +1,6 @@
 # A Voice Powered Expense Budget Tracker App
 
-## Project Demo - [Demo] ()
+## Project Demo - [Demo] (https://jrn-expense-tracker.netlify.app/)
 
 ## Speechly [API](https://api.speechly.com/dashboard/)
 
